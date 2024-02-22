@@ -2,5 +2,6 @@
 
 .bg-container{
     /* height: 616px; */
-    width: 65vh;
+    width: 60%;
+    max-width: 65vh;
 }
